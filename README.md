@@ -1,6 +1,6 @@
 ### Hey, I'm Isabella 
 
-- My name's Isabella, I wanna be a game and framework programmer
+- My name's Isabella, I wanna be a game programmer
 
 <div align="center">
   <a href="https://github.com/isabbellab">
