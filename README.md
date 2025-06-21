@@ -7,7 +7,7 @@
 
 ### Hey, I'm Isabella 
 
-- I'm currently a computer science student, aiming to be a successful dev
+- I'm currently a computer science student
 
 #
 
