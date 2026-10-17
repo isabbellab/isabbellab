@@ -7,7 +7,7 @@
 
 ### Hey, I'm Isabella 
 
-- I'm currently a computer science student
+- Just a girl who loves programming and is learning computer science
 
 #
 
